@@ -97,4 +97,3 @@ module.exports = {
   secondHalfOfArrayIfItIsEven,
   youGottaCalmDown,
 };
-console.log("aa");
